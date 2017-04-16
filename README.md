@@ -1,7 +1,7 @@
 Environment setup instruction for ACCU2017 "The Art of Writing Reasonable Concurrent Code"
 
 
-Clone the repository git@github.com:FelixPetriconi/accu2017setup.git
+Please clone this repository.
 
 Linux
 =====
