@@ -20,6 +20,9 @@ The following assumes a Debian based Linux (I hope the other distributions work 
 
 MacOS
 =====
+Ismail Pazarbasi was so kind to get the environment running with clang. If you want to go his direction, please follow: https://github.com/ipazarbasi/accu2017setup.
+
+Or follow the steps below:
 * Have homebrew installed (https://brew.sh/)
 * Have cmake installed (http://cmake)
 * Have gcc6 installed, e.g. "brew install gcc-6" (clang and mac's own compiler currently do not work together with the nana library)
